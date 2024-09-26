@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gingtonect.github.io/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/app/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/assets/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/css/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/data/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/includes/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/item/sitemap.gingtonect.gz
+Sitemap: https://gingtonect.github.io/src/sitemap.gingtonect.gz
